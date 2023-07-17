@@ -147,7 +147,8 @@ async function MainMenu() {
         ViewRoles();}
     if (res.Main === "Add Roles"){
         AddRoles();}
-    
+    if (res.Main ==="Update Employee Role"){
+        ChangeRoleQuestion();}
 };
 
 async function ViewEmployee(){
