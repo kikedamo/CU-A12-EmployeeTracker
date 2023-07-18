@@ -3,7 +3,7 @@
 ## Table Of Contents
 - Description Of the Contents
 - How To Install
-
+- link of The Deployed Application
 - Link To the Screen Recording
 - Built
 - Creator & License
@@ -19,6 +19,26 @@ A command-line application that allows the user...
 ## link of The Deployed Application
 Link to my [Github Repo](https://github.com/kikedamo/CU12-EmployeeTracker)
 Link to my heroku
+
+## Link to The Recording
+
+Here's the [Screen Recording](https://drive.google.com/file/d/1C1_rVq8o9VNmXIujsggFBMxEUCnhN3j9/view)
+
+## Built
+
+This project was built using...
+- Javascript 
+- Node.js 
+- Inquirer 
+- MYSQL
+
+## Creator & License
+Creator: Davis-Cedrick Baseka
+
+MIT License
+
+Copyright (c) 2023 Davis-Cedrick Baseka
+
 
 
 
