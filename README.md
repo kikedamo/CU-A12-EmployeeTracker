@@ -18,7 +18,6 @@ A command-line application that allows the user...
 
 ## link of The Deployed Application
 Link to my [Github Repo](https://github.com/kikedamo/CU12-EmployeeTracker)
-Link to my heroku
 
 ## Link to The Recording
 
@@ -38,7 +37,3 @@ Creator: Davis-Cedrick Baseka
 MIT License
 
 Copyright (c) 2023 Davis-Cedrick Baseka
-
-
-
-
